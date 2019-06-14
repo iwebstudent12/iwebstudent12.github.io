@@ -13,6 +13,7 @@ h1 {
     font-size: 48px;
     text-transform: uppercase;
     margin: 0;
+    font-family: cursive;
 }
 p {
     color: hotpink;
@@ -21,6 +22,7 @@ ul {
     max-width: 600px;
     margin: 0 auto;
     padding: 0;
+    color: plum;
 }
 li {
     text-align: left;
