@@ -2,32 +2,18 @@ body {
      margin: 0;
      padding: 0;
      font-family: sans-serif;
-     display: grid;
-     align-content: center;
-     text-align: center;
-     min-height: 100vh;
 }
-#grad {
-    background-image: linear-gradient(to right, aqua, hotpink);
-}
+
 h1 {
-    color: yellow;
     font-size: 48px;
     text-transform: uppercase;
     margin: 0;
-    font-family: cursive;
 }
-h2 {
-    color: indigo
-}
-p {
-    color: hotpink;
-}
+
 ul {
     max-width: 600px;
     margin: 0 auto;
     padding: 0;
-    color: plum;
 }
 li {
     text-align: left;
