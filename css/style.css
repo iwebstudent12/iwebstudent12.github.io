@@ -94,7 +94,7 @@ footer nav ul {
     margin: 1em auto;
 }
 
-/* LISTS */
+/* Lists */
 .lists {
     max-width: 1000px;
     margin: 0 auto;
@@ -107,3 +107,4 @@ footer nav ul {
     .lists {
         grid-template-columns: 1fr 1fr;
     }
+}
