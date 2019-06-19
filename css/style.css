@@ -84,6 +84,11 @@ footer nav ul {
     color: white;
 }
 
+.page-sub .hero {
+    min-height: 30vh;
+    background: #888;
+}
+
 .hero h2 {
     font-size: 3em;
     text-transform: uppercase;
