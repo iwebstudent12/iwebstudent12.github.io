@@ -9,18 +9,19 @@ body {
 
 a {
     text-decoration: none;
-    color: darkred;
+    color: rgb(255, 83, 141);
 }
 
 /* HEADER */
 header {
-    background: black;
+    background: #a3a3f1;
     color: white;
     padding: 1em 2em;
+    font-family: cursive;
 }
 
 header a {
-    color: white;
+    color: aqua;
 }
 
 header {
@@ -79,15 +80,14 @@ footer nav ul {
     display: grid;
     align-content: center;
     text-align: center;
-    background: linear-gradient(orange, hotpink);
     min-height: 50vh;
-    color: white;
+    color: #ff0095;
 }
 
 /* SUB PAGES */
 .page-sub .hero {
     min-height: 30vh;
-    background: #888;
+    background: linear-gradient(orange, hotpink);
 }
 
 .hero h2 {
@@ -98,6 +98,12 @@ footer nav ul {
 
 .hero p {
     margin: 1em auto;
+}
+
+.page-home .hero {
+    background-image: url('https://picsum.photos/id/385/1600/800');
+    background-position: center;
+    background-size: cover;
 }
 
 /* Lists */
