@@ -79,11 +79,12 @@ footer nav ul {
     display: grid;
     align-content: center;
     text-align: center;
-    background: darkred;
+    background: linear-gradient(orange, hotpink);
     min-height: 50vh;
     color: white;
 }
 
+/* SUB PAGES */
 .page-sub .hero {
     min-height: 30vh;
     background: #888;
