@@ -2,22 +2,24 @@
 
 * { box-sizing: border-box; }
 
+
 body {
      margin: 0;
      font-family: sans-serif;
+     color: #ae7dfd;
 }
 
 a {
     text-decoration: none;
-    color: rgb(255, 83, 141);
+    color: #f33ed5;
 }
 
 /* HEADER */
 header {
-    background: #a3a3f1;
+    background: linear-gradient(#a3a3f1, hotpink);
     color: white;
     padding: 1em 2em;
-    font-family: cursive;
+    font-family: 'Pacifico', cursive;
 }
 
 header a {
@@ -81,13 +83,14 @@ footer nav ul {
     align-content: center;
     text-align: center;
     min-height: 50vh;
-    color: #ff0095;
+    color: #ec7589;
+    font-family: 'Pacifico', cursive;
 }
 
 /* SUB PAGES */
 .page-sub .hero {
     min-height: 30vh;
-    background: linear-gradient(orange, hotpink);
+    background: aqua;
 }
 
 .hero h2 {
