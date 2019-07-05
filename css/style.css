@@ -105,7 +105,7 @@ footer nav ul {
 
 .page-home .hero {
     background-image: url('https://picsum.photos/id/385/1600/800');
-    background-position: center;
+    background-position: bottom;
     background-size: cover;
 }
 
