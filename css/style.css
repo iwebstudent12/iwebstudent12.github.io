@@ -90,7 +90,7 @@ footer nav ul {
 /* SUB PAGES */
 .page-sub .hero {
     min-height: 30vh;
-    background: aqua;
+    background:linear-gradient(hotpink, yellow,aqua);
 }
 
 .hero h2 {
