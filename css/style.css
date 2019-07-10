@@ -16,7 +16,7 @@ a {
 
 /* HEADER */
 header {
-    background:aqua;
+    background: aquamarine;
     color: white;
     padding: 1em 2em;
     font-family: 'Pacifico', cursive;
@@ -83,7 +83,7 @@ footer nav ul {
     align-content: center;
     text-align: center;
     min-height: 50vh;
-    color: #ee6acd;
+    color: azure;
     font-family: 'Pacifico', cursive;
 }
 
@@ -140,4 +140,14 @@ footer nav ul {
 .date {
     opacity: .5;
     font-size: .8em;
+}
+
+/* CUSTOM UI DESIGNS */
+
+.ui-designs {
+    text-align: center;
+}
+
+.ui-designs img {
+    max-width: 200px;
 }
