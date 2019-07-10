@@ -16,14 +16,14 @@ a {
 
 /* HEADER */
 header {
-    background: #a3a3f1;
+    background: aqua;
     color: white;
     padding: 1em 2em;
     font-family: 'Pacifico', cursive;
 }
 
 header a {
-    color: aqua;
+    color: #a3a3f1;
 }
 
 header {
