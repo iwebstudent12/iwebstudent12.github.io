@@ -16,7 +16,7 @@ a {
 
 /* HEADER */
 header {
-    background: linear-gradient(#a3a3f1, hotpink);
+    background: #a3a3f1;
     color: white;
     padding: 1em 2em;
     font-family: 'Pacifico', cursive;
