@@ -23,7 +23,7 @@ header {
 }
 
 header a {
-    color: #a3a3f1;
+    color: #fd91f4;
 }
 
 header {
@@ -81,9 +81,9 @@ footer nav ul {
 .hero {
     display: grid;
     align-content: center;
-    text-align: center;
+    text-align: top;
     min-height: 50vh;
-    color: #f88d00;
+    color: #fd91f4;
     font-family: 'Pacifico', cursive;
 }
 
